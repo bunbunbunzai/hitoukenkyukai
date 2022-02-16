@@ -16,6 +16,15 @@ body {
     width:1000px;
   }
   
+ header {
+    padding: 180px 0 100px 0;
+    background-image: url(https://image.space.rakuten.co.jp/d/strg/ctrl/9/e1459472aa76e3557c38a3cd8c54e651007edbd6.55.2.9.2.jpeg);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width:1000px;
+  }
+
   .container {
     width: 1170px;
     padding: 0 15px;
